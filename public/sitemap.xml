@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://sid.fyi/gradients</loc>
+  </url>
+
+  <url>
+    <loc>https://sid.fyi</loc>
+  </url>
+
+  <url>
+    <loc>https://sid.fyi/layout</loc>
+  </url>
+
+  <url>
+    <loc>https://sid.fyi/music</loc>
+  </url>
+
+  <url>
+    <loc>https://sid.fyi/photos</loc>
+  </url>
+
+  <url>
+    <loc>https://sid.fyi/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://sid.fyi/resume</loc>
+  </url>
+
+  <url>
+    <loc>https://sid.fyi/setup</loc>
+  </url>
+
+  <url>
+    <loc>https://sid.fyi/thoughts</loc>
+  </url>
+
+  <url>
+    <loc>https://sid.fyi/thoughts/hello-world</loc>
+  </url>
+</urlset>
