@@ -13,7 +13,7 @@ const CurrentlyPlaying = () => {
   return (
     <Link
       className="flex p-2 w-full max-w-xs rounded-md border-2 border-gray-300 dark:border-gray-700"
-      href={song?.isPlaying ? song.url : "https://spotify.com"}
+      href={song?.isPlaying ? song.url : "https://open.spotify.com/user/sidfrostbear"}
     >
       <div className="flex justify-center items-center w-12 h-12">
         {song?.isPlaying ? (
